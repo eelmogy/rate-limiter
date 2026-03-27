@@ -44,7 +44,7 @@ yarn test:unit
 
 # Distributed Rate Limiter (Fixed Window, Redis-backed)
 
-A distributed rate limiter designed for the MLS take-home assignment.
+A distributed rate limiter.
 It works correctly when multiple service instances sit behind a load balancer.
 
 ## Requirements covered
