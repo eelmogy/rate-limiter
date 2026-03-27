@@ -1,10 +1,6 @@
 # Distributed Rate Limiter (NestJS + Redis)
 
-A distributed, Redis-backed rate limiter built for the MLS take-home assignment.
-
-This repository is intentionally scoped to the MLS take-home assignment.
-
-Implementation details (algorithm, correctness, trade-offs, and production notes) live below in this same file.
+A distributed, Redis-backed rate limiter.
 
 ## Requirements
 
