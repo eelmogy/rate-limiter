@@ -1,0 +1,2 @@
+export const RATE_LIMITER_REDIS = 'RATE_LIMITER_REDIS';
+

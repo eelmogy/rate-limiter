@@ -1,0 +1,15 @@
+.env
+node_modules/
+dist/
+coverage/
+.nyc_output/
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
